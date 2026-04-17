@@ -37,7 +37,7 @@ body {
     width: 65px;
 }
 
-.nav-link.active {
+.nav-tabs .nav-link.active {
     background-color: #f8a000 !important;
     color: white !important;
     border: none !important;
