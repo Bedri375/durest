@@ -46,3 +46,7 @@ body {
 .menu-bg {
     background-color: #31303d;
 }
+
+.input-bg, .input-bg:focus {
+    background-color: #383838;
+}
